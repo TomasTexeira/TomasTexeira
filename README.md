@@ -1,7 +1,6 @@
 # Tomas Texeira 🧑🏻‍💻
 
-![Tomas Texeira](https://user-images.githubusercontent.com/66860132/145621191-53750117-d2ad-4133-a8f6-4afac6a0fb83.png)
-
+![Tomas Texeira](https://user-images.githubusercontent.com/66860132/145621484-70fe0cb2-23d1-4f4f-92b5-9b8b0b6b461d.png)
 
 # 🧐 About
  - Iam a software developer with knowledge of software design and development.
