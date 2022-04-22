@@ -12,7 +12,8 @@ Iam a software developer with knowledge of software design and development. Deve
 
 *   🌍  I'm based in Argentina,Buenos Aires
 *   ✉️  You can contact me at [tom.tex2322@gmail.com](mailto:tom.tex2322@gmail.com)
-*   ⚡  Sailor<a href="https://www.github.com/TomasTexeira" target="_blank" rel="noreferrer"><img
+*   ⚡  Sailor
+<a href="https://www.github.com/TomasTexeira" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/TomasTexeira?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -27,10 +28,10 @@ Iam a software developer with knowledge of software design and development. Deve
                                 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
                     </p>
                     
-                  ### Socials
+   ### Socials
                   
                   
-                <p align="left">
+   <p align="left">
                           
                       <a href="https://discord.com/users/retr0#4422" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
